@@ -1,1 +1,27 @@
+# Laboratorio: LVM en AWS EC2
+
+## Objetivo
+Practicar la creación de volúmenes lógicos (LVM) sobre una instancia EC2 de AWS, simulando escenarios de administración RHCSA.
+
+## Pasos realizados
+
+1. Crear volumen EBS de 1GB en AWS
+2. Asociar a instancia EC2
+3. Crear partición con `fdisk`
+4. Crear volumen físico (PV)
+5. Crear grupo de volumen (VG)
+6. Crear volumen lógico (LV)
+7. Formatear y montar
+
+## Comandos usados
+
+```bash
+sudo fdisk /dev/xvdb
+sudo pvcreate /dev/xvdb1
+sudo vgcreate vg_practica /dev/xvdb1
+sudo lvcreate -L 500M -n lv_datos vg_practica
+sudo mkfs.ext4 /dev/vg_practica/lv_datos
+sudo mkdir /mnt/lab_lvm
+sudo mount /dev/vg_practica/lv_datos /mnt/lab_lvm
+
 
