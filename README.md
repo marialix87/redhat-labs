@@ -1,10 +1,10 @@
-# 🐧 Laboratorios prácticos de administración Linux en AWS
+# 🐧 Laboratorio práctico de administración Linux en AWS
 
-Este repositorio contiene laboratorios reales realizados en una instancia EC2 de AWS (nivel gratuito). Fueron desarrollados como parte de mi preparación para la certificación **RHCSA** y refuerzo de habilidades como sysadmin Linux.
+Este repositorio contiene un laboratorio real realizado en una instancia EC2 de AWS (nivel gratuito). Fue  desarrollado como parte de mi preparación para la certificación **RHCSA** y refuerzo de habilidades como sysadmin Linux.
 
 ---
 
-## 📘 Laboratorios incluidos
+## 📘 Temas incluidos
 
 Este documento PDF incluye los siguientes temas:
 
