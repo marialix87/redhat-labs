@@ -17,8 +17,8 @@ Este documento PDF incluye los siguientes temas:
 
 ## 📄 Documento
 
-📝 También puedes verlo directamente aquí:  
-👉 [https://github.com/marialix87/red-hat-labs/blob/main/laboratorio-linux-aws.pdf](https://github.com/marialix87/red-hat-labs/blob/main/laboratorio-linux-aws.pdf)
+[Visualizar PDF del laboratorio](./laboratorio-linux-aws.pdf)
+
 
 Incluye comandos ejecutados, explicación paso a paso y capturas de salida desde la consola EC2.
 
