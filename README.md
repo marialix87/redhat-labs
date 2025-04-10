@@ -1,4 +1,4 @@
-# 🧪 Laboratorios prácticos de administración Linux en AWStorios prácticos de administración Linux en AWS
+# 🧪 Laboratorios prácticos de administración Linux en AWS
 
 Este repositorio recopila una serie de laboratorios realizados en AWS (EC2 con Amazon Linux 2), como parte de mi preparación y fortalecimiento de conocimientos en administración de sistemas Linux y prácticas DevOps.
 
@@ -8,7 +8,7 @@ Incluye comandos ejecutados, explicación paso a paso y capturas de salida desde
 
 ## 🛠️ Tecnologías usadas
 
-- AWS EC2 (AlmaLinux)
+- AWS EC2 (Amazon Linux 2)
 - Bash / CLI
 - LVM
 - Apache HTTPD
