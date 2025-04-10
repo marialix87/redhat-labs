@@ -17,7 +17,7 @@ Este documento PDF incluye los siguientes temas:
 
 ## 📄 Documento
 
-📝 [lab-linux-aws.pdf](./lab-linux-aws.pdf)
+📝 laboratorio-linux-aws.pdf
 
 Incluye comandos ejecutados, explicación paso a paso y capturas de salida desde la consola EC2.
 
