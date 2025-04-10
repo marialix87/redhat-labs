@@ -1,4 +1,4 @@
-# Laboratorios prácticos de administración Linux en AWS
+# 🧪 Laboratorios prácticos de administración Linux en AWStorios prácticos de administración Linux en AWS
 
 Este repositorio recopila una serie de laboratorios realizados en AWS (EC2 con Amazon Linux 2), como parte de mi preparación y fortalecimiento de conocimientos en administración de sistemas Linux y prácticas DevOps.
 
@@ -17,20 +17,15 @@ Incluye comandos ejecutados, explicación paso a paso y capturas de salida desde
 
 ---
 
-## 📘 Laboratorios incluidos
+## 📄 Documentación de los laboratorios
 
-### 1. [Laboratorio Linux en AWS](./laboratorio-linux-aws.pdf)
-- ✅ **LVM**: Creación y montaje de volúmenes lógicos.
-- ✅ **Apache + Firewall**: Instalación y prueba de servidor web.
-- ✅ **Systemd**: Manejo de servicios.
-- 🔜 **SELinux**: Exploración inicial.
+- 🔗 [Laboratorio 1: Apache, LVM, Firewall, Systemd](./laboratorio-linux-aws.pdf)
 
 ---
 
 ## 🚀 Próximos pasos
 
 - Agregar prácticas sobre SELinux, DNS, FTP y monitoreo.
-- Documentar en subdirectorios individuales con archivos `README.md`.
 
 ---
 
